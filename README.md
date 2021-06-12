@@ -60,7 +60,9 @@ SFM으로 진행한 3D Reconstruction과 비교 시, 복원까지 적은 시간�
 <br>
 ### 최종 완성물
 * [최종 발표 자료.pdf](./최종-발표-자료.pdf)
-* [프로젝트 제안서.pdf](./프로젝트-제안서.pdf) <br><br>
+* [프로젝트 제안서.pdf](./프로젝트-제안서.pdf) 
+
+<br><br>
 
 ### 작성 순서<br>
 1.  [HorizonNet 중간 발표.pdf](./HorizonNet-중간-발표.pdf)
