@@ -69,6 +69,9 @@ SFM으로 진행한 3D Reconstruction과 비교 시, 복원까지 적은 시간�
 2.  [HorizonNet 논문 해석.pdf](./HorizonNet-논문-해석.pdf)
 3.  [HorizonNet 논문 해석2.pdf](./HorizonNet-논문-해석2.pdf) <br><br>
 
+------------------------------------------------------------------------- 
+<br>
+
 ### 출처<br>
 - [sunset1995/HorizonNet”(2019)](https://github.com/sunset1995/HorizonNet)
 - [HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation (2019)](https://arxiv.org/abs/1901.03861) <br><br>
