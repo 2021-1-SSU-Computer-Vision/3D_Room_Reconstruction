@@ -1,4 +1,4 @@
-# 3D Room Reconstruction Using HorizonNet (ComputerVision)
+# 3D Room Reconstruction Using HorizonNet (Computer Vision)
 
 ## 2021.05.10(Mon) - 2021.06.11(Fri) / 김현우, 길다영 <br><br>
 
