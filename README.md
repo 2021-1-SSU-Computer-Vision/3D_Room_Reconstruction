@@ -41,7 +41,7 @@ HorizonNet은 Manhattan World 가정을 기반으로 하여 짧은 시간에 방
 > 공식을 통해 천장-바닥 거리를 계산 -> 벽면 복구. <br>
 <img src="./img/our model.PNG" width="100%" height="90%" title="result" alt="result"></img>
 
-(자세한 설명은 [최종 발표 자료.pdf](./최종-발표-자료.pdf)에 나타냄.)<br><br>
+(자세한 설명은 [최종 발표 자료.pdf](./최종%20발표%20자료.pdf)에 나타냄.)<br><br>
 
 ### 결과
 한 장의 파노라마 이미지만을 사용해서 방을 3D로 복원할 수 있음.<br>
