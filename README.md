@@ -15,9 +15,9 @@
 - [5. 문제점](#문제점)
 - [6. 추후 계획](#추후-계획)
 - [7. HorizonNet 훈련 및 테스트 과정](#horizonnet-훈련-및-테스트-과정)
-
+ <br><br>
 ---
-
+ <br><br>
 ## 프로젝트 진행 배경
  SFM으로 방을 3D로 복원하고자 함. 다양한 각도에서 촬영된 60장 이상의 사진을 사용했고 방을 구현하기까지 5~6시간의 시간이 소요됨.<br>
  <img src="./img/sfm.PNG" width="40%" height="30%" title="SFM" alt="SFM"></img>
@@ -66,7 +66,7 @@ SFM으로 진행한 3D Reconstruction과 비교 시, 복원까지 적은 시간�
 - 더 좋은 성능의 GPU를 사용하여 더 많이 데이터셋을 가지고 모델을 돌려볼 것.<br><br>
 
 ---
-
+ <br><br>
 ## HorizonNet 훈련 및 테스트 과정
  - ["How to prepare your dataset?" 참고](https://github.com/sunset1995/HorizonNet/blob/master/README_PREPARE_DATASET.md) <br>
  
@@ -99,12 +99,10 @@ SFM으로 진행한 3D Reconstruction과 비교 시, 복원까지 적은 시간�
  <img src="./img/pic424.jpg" width="70%" height="70%" title="pic424" alt="pic424"></img>
  - 테스트 이미지2 <br>
  <img src="./img/pic424_another.jpg" width="70%" height="70%" title="pic424_another" alt="pic424_another"></img>
+ <br><br>
 
- 
  ---
 
-
-------------------------------------------------------------------------- 
 <br>
 
 ## 최종 완성물 <br>
