@@ -115,9 +115,6 @@ SFM으로 진행한 3D Reconstruction과 비교 시, 복원까지 적은 시간�
 2.  [HorizonNet 논문 해석.pdf](./HorizonNet%20해석/HorizonNet%20논문%20해석.pdf)
 3.  [HorizonNet 논문 해석2.pdf](./HorizonNet%20해석/HorizonNet%20논문%20해석2.pdf) <br><br>
 
-## 데이터<br>
-
-
 ------------------------------------------------------------------------- 
 <br>
 
