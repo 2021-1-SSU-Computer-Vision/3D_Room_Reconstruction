@@ -1,6 +1,6 @@
 ## 3D Room Reconstruction Using HorizonNet
 
-### 2021.05.10(Mon) - 2021.06.11(Fri) : 길다영, 김현우 <br><br>
+#### 2021.05.10(Mon) - 2021.06.11(Fri) : 길다영, 김현우 <br><br>
 
 - 이 프로젝트는 2021-1 SSU Computer Vision 수업에서 진행됨.
 - 기존의 HorizonNet 논문과 코드를 해석하고, 직접 모델을 훈련시키고 이미지를 적용하여 3D Room을 복원해 봄.
